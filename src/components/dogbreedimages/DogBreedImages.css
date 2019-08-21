@@ -1,0 +1,34 @@
+.dogs-breed-images {
+  display: flex;
+  flex-direction: row;
+}
+
+.Title {
+  font-family: 'Ranchers', cursive;
+  color: whitesmoke;
+  font-size: 5em;
+}
+
+.Subtitle {
+  font-family: 'Peralta', cursive;
+  color: wheat;
+  font-size: 3em;
+  list-style: none;
+}
+
+.link {
+  font-family: 'Peralta', cursive;
+  color: wheat;
+  font-size: 3em;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: black
+}
+
+.images {
+  height: 20em;
+  border: 5px solid white;
+  border-radius: 10px;
+}

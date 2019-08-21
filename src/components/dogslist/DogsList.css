@@ -1,0 +1,25 @@
+.dogs-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+  font-family: 'Ranchers', cursive;
+  color: whitesmoke;
+  font-size: 5em;
+}
+
+.listItems {
+  font-family: 'Peralta', cursive;
+  color: wheat;
+  font-size: 3em;
+  text-decoration: none;
+}
+
+.listItems:hover {
+  color: black
+}
+
+.list {
+  list-style: none;
+}
